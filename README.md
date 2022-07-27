@@ -1,7 +1,7 @@
 *   🖥️  See my portfolio at [MD AL AMIN KHAN](http://khanalamin.com)
 *   ✉️  You can contact me at [alaminkhan907@gmail.com](mailto:alaminkhan907@gmail.com)
 *   🧠  I'm learning Full stack web development
-*   🤝  I'm open to collaborating on commerce web application
+*   🤝  I'm open to collaborating on commerce web and other applications
 *   ⚡  I'm love with Black coffee
 
 Skills
